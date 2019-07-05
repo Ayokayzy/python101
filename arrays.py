@@ -4,8 +4,7 @@
 # # students {'kslg','hslgls','jhfhwsoh'}
 # gideon = {'eyes':2, 'Name':'gideon','legs':2}
 # print('gideon',eyes)
-
-"""
+lriririr
 block = eval(input('no of block: '))
 lines = eval(input('no of lines: '))
 start = eval(input('enter starting num: '))
